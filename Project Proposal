@@ -1,0 +1,17 @@
+Project 2 Proposal: ETL 
+
+Team MembersL
+Madison Henry
+Drew Williams
+Rashmi Rekha
+
+Theme: Do World Happiness Scores have an inverse relationship with Suicide Rates?
+
+Both sources report data by country and year, and 2015 and 2016 are the overlapping years in both. Country is a column found in both datasets. 
+Aside from the overall Happiness Score, the World Happiness Scores dataset also contains an impact score for several factors: Economy, Family, Health, Freedom, and Trust in Government. The suicide rate per country may have a more significant relationship with one of these factors than it does with the overall score. 
+
+Sources (both from kaggle):
+World Happiness Report - use .csv files for 2015 and 2016
+Suicide Rates Overview 1985 to 2016 - filter dataset to years 2015 and 2016
+
+Database to be used: PostgresQL
